@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.truedreamz.demo.swipe.view.VerticalPager xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/activity_main_vertical_pager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <fragment
+        android:id="@+id/main_top_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.truedreamz.demo.swipe.fragment.TopFragment" />
+
+    <fragment
+        android:id="@+id/main_central_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.truedreamz.demo.swipe.fragment.CentralCompositeFragment" />
+
+    <fragment
+        android:id="@+id/main_bottom_fragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        class="com.truedreamz.demo.swipe.fragment.BottomFragment" />
+
+</com.truedreamz.demo.swipe.view.VerticalPager>

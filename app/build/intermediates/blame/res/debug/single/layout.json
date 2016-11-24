@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_right.xml",
+        "source": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\src\\main\\res\\layout\\fragment_right.xml"
+    },
+    {
+        "merged": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_central.xml",
+        "source": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\src\\main\\res\\layout\\fragment_central.xml"
+    },
+    {
+        "merged": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bottom.xml",
+        "source": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\src\\main\\res\\layout\\fragment_bottom.xml"
+    },
+    {
+        "merged": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_composite_central.xml",
+        "source": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\src\\main\\res\\layout\\fragment_composite_central.xml"
+    },
+    {
+        "merged": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_left.xml",
+        "source": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\src\\main\\res\\layout\\fragment_left.xml"
+    },
+    {
+        "merged": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_top.xml",
+        "source": "G:\\JP Documents\\JPsKnowledgeCircle\\Codebase\\SnapchatDashboard\\app\\src\\main\\res\\layout\\fragment_top.xml"
+    }
+]

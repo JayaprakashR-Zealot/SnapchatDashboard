@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <TextView
+            style="@style/PageTitle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@android:color/white"
+            android:text="@string/center" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <Button
+                android:id="@+id/btnProfile"
+                android:drawableTop="@drawable/profle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentTop="true"
+                android:text="@string/top"
+                android:background="@android:color/transparent"
+                android:layout_margin="5dp"
+                />
+
+            <Button
+                android:id="@+id/btnARMessaging"
+                android:drawableTop="@drawable/messaging"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentLeft="true"
+                android:text="@string/left"
+                android:background="@android:color/transparent"
+                android:layout_margin="5dp"
+                />
+
+            <Button
+                android:id="@+id/btnAugs"
+                android:drawableTop="@drawable/games"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_alignParentRight="true"
+                android:text="@string/right"
+                android:background="@android:color/transparent"
+                android:layout_margin="5dp"
+                />
+
+            <Button
+                android:id="@+id/btnDiscover"
+                android:drawableTop="@drawable/coupon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerHorizontal="true"
+                android:layout_alignParentBottom="true"
+                android:text="@string/bottom"
+                android:background="@android:color/transparent"
+                android:layout_margin="5dp"
+                />
+
+        </RelativeLayout>
+
+    </FrameLayout>
+
+</RelativeLayout>

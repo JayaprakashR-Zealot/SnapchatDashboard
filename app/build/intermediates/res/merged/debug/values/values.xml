@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#33B5E5</color>
+    <color name="green">#AA00FF00</color>
+    <color name="purple">#AAFF00FF</color>
+    <color name="red">#FF0000</color>
+    <color name="yellow">#FFFF00</color>
+    <dimen name="text_big">32sp</dimen>
+    <string name="app_name">Snapchat Dashboard</string>
+    <string name="bottom">Discover</string>
+    <string name="center">Home</string>
+    <string name="left">Settings</string>
+    <string name="right">More</string>
+    <string name="top">Profile</string>
+    <style name="AppTheme" parent="@android:style/Theme.NoTitleBar"/>
+    <style name="PageTitle">
+        <item name="android:textSize">@dimen/text_big</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
